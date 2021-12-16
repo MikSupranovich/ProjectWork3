@@ -8,3 +8,6 @@
 	email = forte@tut.by
 [alias]
         history = log --graph
+[remote "origin"]
+	url = https://github.com/MikSupranovich/ProjectWork3.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
